@@ -1,3 +1,3 @@
-# conversoMoedas
+# conversorMoedas
 
- APP criado em java para a onersão de valores de Dolar americano para Real 
+ APP criado em java para a Converção de valores de Dolar americano para Real
