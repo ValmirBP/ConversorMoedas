@@ -1,3 +1,4 @@
 # conversorMoedas
 
- APP criado em java para a Converção de valores de Dolar americano para Real
+Aplicativo criado para uma aprensentação inicial dos estudo em android.
+
