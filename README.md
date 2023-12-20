@@ -1,16 +1,11 @@
-# conversorMoedas
+# CurrencyConverter
 
-Aplicativo criado para uma aprensentação inicial dos estudo em android.
+Application created for an initial presentation of studies in android.
 
 ![conv](https://user-images.githubusercontent.com/48802923/68498456-9e43ff00-0235-11ea-8977-4a216c9eb083.png)
 
-imagem 1: tela de utilização do aplicativo.
+Image 1: Application usage screen.
 
-#versões de Android:
+# Android Versions:
 
-A aplicação pode ser instalada a partir do android 4.0 em diante
-
-
-
-
-
+The application can be installed from Android 4.0 onwards.
